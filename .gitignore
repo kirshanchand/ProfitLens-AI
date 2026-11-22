@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Local AI model cache
+.cache/
+huggingface/
+models/
+
+# Temporary files
+*.log
+.ipynb_checkpoints/
+.DS_Store
+
+# Original datasets
+data/
+
+# SQLite temporary files
+*.db-journal
+*.db-wal
+*.db-shm
