@@ -1,12 +1,3 @@
----
-title: ProfitLens AI
-emoji: 📊
-colorFrom: blue
-colorTo: green
-sdk: docker
-app_port: 7860
----
-
 # ProfitLens AI
 ### Retail & E-commerce Intelligence | Data Analytics, Machine Learning & AI
 
